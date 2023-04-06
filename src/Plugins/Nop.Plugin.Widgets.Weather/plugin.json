@@ -1,0 +1,11 @@
+{
+  "Group": "Widgets",
+  "FriendlyName": "Weather",
+  "SystemName": "Widgets.Weather",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.70" ],
+  "Author": "Alin",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.Weather.dll",
+  "Description": "This plugin allows you to change the contents of main page slider"
+}

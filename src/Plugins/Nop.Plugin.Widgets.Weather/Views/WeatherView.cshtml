@@ -1,0 +1,14 @@
+@model Nop.Plugin.Widgets.Weather.Model.WeatherModel
+@{
+    Layout = "";
+}
+
+<div>
+    Weather View
+</div>
+<div>
+    <h2>@Model.City</h2>
+    <p>Condition: @Model.Condition</p>
+    <img src="@Model.LinkImg" alt="Weather Icon" />
+    <p>Temperature: @Model.Temp</p>
+</div>
